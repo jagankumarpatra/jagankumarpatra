@@ -57,7 +57,7 @@ Jun 2024 - Oct 2025
 
 ---
 
-## Selected Projects
+## Projects
 - Vaccine Registration API (Node.js, TypeScript, AWS, MongoDB) — Designed a CoWIN-inspired backend with secure registration, slot booking, JWT role-based auth, serverless Lambdas, S3 storage and SQS/SNS workflows.  
   View Code: https://github.com/jagankumarpatra/vaccine-registration-api (replace with actual repo link)
 
@@ -67,25 +67,16 @@ Jun 2024 - Oct 2025
 (Tip: Replace the above links with exact repository URLs. You can also add app screenshots in /assets and link them here.)
 
 ---
-
 ## Education
 **Silicon Institute of Technology** — Bachelor of Technology (CGPA: 9.35/10.0)  
 Bhubaneswar, Odisha, India • Jul 2020 - Jul 2024  
 Relevant courses: Data Structures & Algorithms, OOP, DBMS, Operating Systems
 
 ---
-
 ## Contact & Links
 - Email: patrajagankumar2002@gmail.com
 - Phone: +91 8637249203
-- LinkedIn: https://www.linkedin.com/in/jagankumarpatra (replace if different)
+- LinkedIn: https://www.linkedin.com/in/jagan-kumar-patra/
 - GitHub: https://github.com/jagankumarpatra
-- LeetCode: https://leetcode.com/<your-username> (replace with your handle)
+- LeetCode: https://leetcode.com/u/patrajagankumar/
 
----
-
-## How you can use this README
-1. Copy this file into your repository jagankumarpatra/jagankumarpatra as README.md.
-2. Replace placeholder repo/URL values for projects, LinkedIn, and LeetCode.
-3. Optional: Add screenshots under a `.github/assets/` folder and link them in the Projects section.
-4. Merge the branch `update/readme-profile` into your default branch (usually `main`) to apply it to your profile immediately.
