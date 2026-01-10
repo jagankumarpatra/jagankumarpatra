@@ -21,15 +21,6 @@ I enjoy designing clean APIs, building reliable serverless pipelines, and shippi
 - Strong in API design, clean architecture, unit & integration testing, and cross-functional collaboration.
 - Comfortable working across mobile (Flutter) and backend (Node.js/TypeScript) stacks.
 
-## GitHub Stats & Top Languages
-<p align="center">
-  <img alt="Jagan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jagankumarpatra&show_icons=true&theme=dark&hide_border=true" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagankumarpatra&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
