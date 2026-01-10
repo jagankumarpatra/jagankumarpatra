@@ -1,3 +1,57 @@
+# Jagan Patra — Full‑stack Mobile & Backend Developer ✨
+
+1.6 years building delightful mobile experiences and reliable serverless backends. I bridge product-facing mobile apps (Flutter) with robust backend services (Node.js, TypeScript, AWS) to ship features that scale and feel polished.
+
+Why I build
+- I value clarity: clean APIs, predictable data flows, and readable code.
+- I value impact: measurable improvements to performance, reliability and user experience.
+- I ship: from prototypes to production, with tests and monitoring.
+
+Quick highlights
+- 14K+ active users maintained in a subscription-based Flutter app.
+- Improved REST API performance by ~25% through targeted parsing & caching optimizations.
+- Experience designing serverless pipelines (Lambda, API Gateway, SQS/SNS, S3) and secure role-based auth flows.
+
+Core tech
+Flutter · Dart · Node.js · TypeScript · MongoDB · MySQL · AWS (Lambda, API GW, S3, SQS/SNS) · Firebase
+
+What I do (selected)
+- Design and implement backend features from PRD → tests → production.
+- Build and optimize Flutter apps with clean state management and native integrations (payments, location).
+- Instrument systems: logging, metrics, and defensive validations to reduce incidents.
+
+Experience
+- Backend Developer — Runo (Current)
+  - Implemented call-analysis filtering and score pipelines; ship PRD-backed features with thorough testing and schema migrations.
+
+- Associate Consultant — Flutter Developer, Invincix Solutions
+  - Maintained a subscription-based milk-delivery app (14K+ users). Integrated multiple payment gateways and improved overall API latency and UX.
+
+Selected projects
+- Vaccine Registration API — Node.js, TypeScript, AWS, MongoDB  
+  A CoWIN-inspired backend with secure registration, JWT-based roles, Lambdas, S3 uploads and SQS/SNS workflows.  
+  https://github.com/jagankumarpatra/vaccine-registration-api
+
+- Movie Booking App — Flutter  
+  Responsive app with auth, payments (Razorpay), and improved booking flows.  
+  https://github.com/jagankumarpatra/movie-booking-app
+
+Want this README tone adjusted?
+- Short & punchy version (for a GitHub profile card)
+- Long-form portfolio style (with screenshots and deep project writeups)
+
+Contact
+- Email: patrajagankumar2002@gmail.com
+- Phone: +91 8637249203
+- LinkedIn: https://www.linkedin.com/in/jagankumarpatra
+- GitHub: https://github.com/jagankumarpatra
+
+Open to feedback — tell me which parts you want stronger (tone, metrics, or projects), and I’ll tune it to feel sharper and more senior.
+
+
+
+
+
 # Hi, I'm Jagan 👋
 
 <p>
