@@ -80,7 +80,7 @@ Responsive movie booking application with authentication, payment processing, an
 
 ## 🎓 Education
 
-**Silicon Institute of Technology** — Bachelor of Technology in Computer Science  
+**Silicon Institute of Technology** — Bachelor of Technology
 **CGPA:** 9.35/10.0  
 Bhubaneswar, Odisha, India · Jul 2020 - Jul 2024
 
