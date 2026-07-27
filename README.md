@@ -6,7 +6,7 @@ I build reliable mobile experiences and scalable backend systems that serve real
 
 ---
 
-## 🚀 Tech Stack & Arsenal
+## 🚀 Tech Stack
 
 | Domain | Technologies |
 |--------|-------------|
