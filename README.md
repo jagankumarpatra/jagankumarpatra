@@ -19,7 +19,7 @@ I build reliable mobile experiences and scalable backend systems that serve real
 
 ---
 
-## 💼 Professional Experience (1.6 YOE)
+## 💼 Professional Experience (2 YOE)
 
 ### Backend Developer — Runo
 **Oct 2025 - Present**
